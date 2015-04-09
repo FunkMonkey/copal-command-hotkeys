@@ -1,0 +1,13 @@
+{
+  "name": "copal-command-hotkeys",
+  "version": "0.1.0",
+  "main": "build/hotkeys.js",
+  "dependencies": {
+    "lodash": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-util": "^3.0.4"
+  }
+}
